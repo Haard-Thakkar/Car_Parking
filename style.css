@@ -1,0 +1,27 @@
+body{
+	background-image: url("concrete-road.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width: 10px;
+	background-color: white; 
+	border-style:ridge;
+    border-radius: 1pc;
+    border-block-color: gray;
+    border-block-start-color: orangered;
+    border-inline-end-color: yellow;
+    border-inline-start-color: blue;
+    border-block-end-color: greenyellow;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 1px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 40px;
+}
+
+h1,h3,h4
+{
+	color: rgb(255, 241, 43) !important;
+}
